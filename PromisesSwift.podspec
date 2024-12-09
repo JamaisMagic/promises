@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   # bundle for the privacy manifest.
   s.cocoapods_version = '>= 1.12.0'
 
-  s.ios.deployment_target  = '15.6'
+  s.ios.deployment_target  = '12.0'
   s.osx.deployment_target  = '10.11'
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0'
